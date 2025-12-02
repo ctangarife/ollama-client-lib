@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.8"
 license = {text = "MIT"}
 authors = [
-    {name = "Cristian Tangarife", email = ""}
+    {name = "Cristian Tangarife", email = "hike.goat5691@eagereverest.com"}
 ]
 keywords = ["ollama", "llm", "ai", "client", "rag", "async"]
 classifiers = [
